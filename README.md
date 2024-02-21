@@ -4,7 +4,7 @@ Este é um aplicativo simples em React Native que simula um semáforo de trânsi
 
 ## Funcionalidades
 
-O projeto consiste em criar um aplicativo, onde contenha um ícone, um botão liga/desliga (SWITCH) e a mudança de imagens. No caso de meu projeto, esta mudançao de imagens é a simulação da transição de cores de um semáforo.
+O projeto consiste em criar um aplicativo, onde contenha um ícone, um botão liga/desliga (SWITCH) e a mudança de imagens. No caso de meu projeto, esta mudança de imagens é a simulação da transição de cores de um semáforo.
 
 - **Interruptor (Switch):** Permite habilitar ou desabilitar a mudança de cores do semáforo.
 - **Semáforo:** Exibe as cores verde, amarelo ou vermelho.
